@@ -8,7 +8,7 @@
 ![React](https://img.shields.io/badge/React-Beginer-blue)
 ![Nextjs](https://img.shields.io/badge/Nextjs-Beginer-blueviolet)
 
-- 🔭 I’m currently studying Software Engineering at Walisongo State Islamic University Semarang
+- 🔭 I’m currently studying Information Technology at Walisongo State Islamic University Semarang
 - 🌱 I’m currently learning **Tailwind**, **React** and **Nextjs**
 - 👯 I’m looking to collaborate on Basic Web Dev stuff
 - 🤔 I’m looking for help in learning about Web Dev and JavaScript 
