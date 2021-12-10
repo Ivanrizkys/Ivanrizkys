@@ -13,4 +13,3 @@
 - 👯 I’m looking to collaborate on Basic Web Dev stuff
 - 💬 Ask me about anything and everything
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivnriizky@gmail.com)](mailto:ivnriizky@gmail.com)
-- ⚡ ⚡ Fun fact: Jack of all trades , Master of None !
