@@ -8,13 +8,13 @@
 </p>
 
 <p align="left">
-  🔭 I’m currently studying Information Technology at Walisongo State Islamic University Semarang
+  🔭 I’m currently working on KodingWorks
   <br>
   💬 Ask me about anything and everything
   <br>
-  👯 I’m looking to collaborate on Basic Web Dev stuff
+  👯 I’m looking to collaborate on Web Development projects
   <br>
-  🌱 I’m currently learning <strong>Tailwind</strong>, <strong>React</strong> and <strong>Nextjs</strong>
+  🌱 I’m currently learning <strong>Golang</strong> and <strong>React</strong>
   <br>
   📫 How to reach me: <a href="mailto:ivnriizky@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivnriizky@gmail.com"><a/>
   <br>
