@@ -8,8 +8,6 @@
 </p>
 
 <p align="left">
-  🔭 I’m currently working on KodingWorks
-  <br>
   💬 Ask me about anything and everything
   <br>
   👯 I’m looking to collaborate on Web Development projects
