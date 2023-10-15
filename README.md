@@ -5,7 +5,7 @@
   <br>
   👯 I’m looking to collaborate on Web Development projects
   <br>
-  🌱 I’m currently learning <strong>Golang</strong> and <strong>React</strong>
+  🌱 I’m currently learning about <strong>Web Development Technology</strong> and <strong>Artificial Inteligence</strong>
   <br>
   📫 How to reach me: <a href="mailto:ivnriizky@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivnriizky@gmail.com"><a/>
   <br>
